@@ -86,9 +86,10 @@ scipy.misc.imsave(image_name, img)
 
 ### Generated Images
 
-![1] | ![2] | ![3]
-![4] | ![5] | ![6]
-![7] | ![8] | ![9]
+![1] | ![2] 
+![9] | ![4] 
+![5] | ![6]
+![7] | ![8] 
 
 ### To Imgur 
 You Suck. Kthanx.
