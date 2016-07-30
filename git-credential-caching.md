@@ -19,3 +19,7 @@ $ git config --global credential.helper 'cache --timeout=3600'
 ```
 
 This post is also my immediate test to see if this Git credential caching system serves my purpose. :)
+
+### Edit
+
+It works!
