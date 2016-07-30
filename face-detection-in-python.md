@@ -26,7 +26,7 @@ $ sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavfo
 $ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
 ```
 
-Get the source for (your os)[http://opencv.org/downloads.html].
+Get the source for [your os](http://opencv.org/downloads.html).
 
 ```sh
 $ unzip opencv-2.4.13.zip
